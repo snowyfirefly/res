@@ -285,6 +285,6 @@
 * 敬请期待哦...  
 
 ##### [使用协议](https://github.com/snowyfirefly/res/blob/pls/licence.md)
-##### 捐赠：[支付宝:15683063671(手机浏览器可直接跳转)](https://qr.alipay.com/fkx10970mdgo40tsql1wo3f)  
+##### 捐赠：[支付宝(手机浏览器可直接跳转)](https://qr.alipay.com/fkx10970mdgo40tsql1wo3f)  
 ##### &emsp;&emsp;&emsp;[微信:shenyu40403(暂不支持跳转)](https://pay.weixin.qq.com/index.php/core/home/login?return_url=%2F)  
 ###### 资源包导入之后会出现乱码情况，因为使用了Minecraft基岩版不支持的GBK编码，将在下个版本修复
