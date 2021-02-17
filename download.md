@@ -1,5 +1,5 @@
 ## 羽音缭绕25.0[250000a-10ab]
-#### 基岩版最大的红石音乐扩展音源资源包
+##### 基岩版最大的红石音乐扩展音源资源包
 ### 捐赠：[支付宝](https://qr.alipay.com/fkx10970mdgo40tsql1wo3f)    [微信:shenyu40403(暂不支持跳转)](wxp://f2f0Ns4Hz2ggmQkNbyYLN6SjL5svgYtXLWU9)
 ### 点击对应链接即可下载
 
@@ -283,4 +283,6 @@
 
 > SOUND EFFECTS 声音特效
 
-* 敬请期待哦...
+* 敬请期待哦...  
+
+##### [使用协议](https://github.com/snowyfirefly/res/blob/pls/licence.md)
