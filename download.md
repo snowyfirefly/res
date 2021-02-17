@@ -1,10 +1,10 @@
-## 羽音缭绕25.0[25.0.0]&nbsp;适用于Minecraft基岩版1.10.0及以上版本  
+## 羽音缭绕25.0.0&nbsp;适用于Minecraft基岩版1.10.0及以上版本  
 ##### 基岩版最大的红石音乐扩展音源资源包  
 ### 点击对应链接即可下载  
 
 > 使用方法
 
-* [羽音缭绕25.0使用方法文档](https://kami-res.oss-cn-hangzhou.aliyuncs.com/pls/羽音缭绕25使用方法.xls)  
+* [羽音缭绕25.0.0使用方法文档](https://kami-res.oss-cn-hangzhou.aliyuncs.com/pls/羽音缭绕25使用方法.xls)  
   
 > 鼓组(GM标准中的9号通道)
 
